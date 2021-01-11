@@ -1,5 +1,7 @@
 # Using OpenCV DNN combined with YoloV3 and YoloV3-tiny for simple object detections tasks.
 
+![plot](results/imgs/detect_img3.jpg)
+
 ## Instructions.
 
 You'll find all the instructions in the three different notebooks which are basically the same, the only changes occur on the detection device or type of input frames. There are three different object detections tasks I would like to highlight there, for objects detections in images, videos and webcam (cameras). This code was inspired by some coders on github and Kaggle, they allow me to start my first project of Computer Vision using OpenCV DNN and YoloV3. All the functions are stored in these notebooks and ready to work.
